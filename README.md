@@ -69,13 +69,15 @@ npx mrm@2 lint-staged
   "proseWrap": "always"
 }
 ```
-5. Сразу же настроить .gitignore. Добавить в файл <pre>.gitignore</pre> 
+5. Сразу же настроить .gitignore. 
 <pre><code>
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 build
 .husky
 .vscode
+6
+</pre></code>
 
 6. Настроить [Deployment](https://create-react-app.dev/docs/deployment#github-pages) gh-pages
 Видео [Репеты](https://drive.google.com/file/d/1EOewQyS7V9SHsUbbycwgTNqB59jwhFnG/view)
