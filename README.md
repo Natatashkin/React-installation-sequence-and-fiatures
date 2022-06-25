@@ -4,9 +4,7 @@
 2. Устанавливаем Реакт [доки](https://create-react-app.dev/docs/getting-started/#creating-an-app)
     <pre><code>npx create-react-app .</code></pre>
     
-3. откатить версию плагина css <pre><code>npm i -D --save-exact mini-css-extract-plugin@2.4.5</code></pre>
-
-4. ## Настройка pre-commit хуков
+3. ## Настройка pre-commit хуков
 
 ### 1 - Установка зависимостей
 
